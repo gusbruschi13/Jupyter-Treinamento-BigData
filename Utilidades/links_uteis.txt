@@ -1,13 +1,14 @@
-
+################ Acesso a conta AWS #############################
 
 link para acessar AWS
 https://bigdata-treinamento.signin.aws.amazon.com/console
 
-usuario: aluno.1
+onde n varia de 1 a 17
 
-Senha: aluno.1
+usuario: aluno.n
+Senha: aluno.n
 
-
+######################## Cluster EMR ############################
 
 Acesso SSH 
 treinamento@bigdata
