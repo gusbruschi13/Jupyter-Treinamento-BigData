@@ -1,0 +1,8 @@
+
+
+link para acessar AWS
+https://bigdata-treinamento.signin.aws.amazon.com/console
+
+usuario: aluno.1
+
+Senha: aluno.1
