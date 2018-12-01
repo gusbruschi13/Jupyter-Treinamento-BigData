@@ -6,3 +6,8 @@ https://bigdata-treinamento.signin.aws.amazon.com/console
 usuario: aluno.1
 
 Senha: aluno.1
+
+
+
+Acesso SSH 
+treinamento@bigdata
