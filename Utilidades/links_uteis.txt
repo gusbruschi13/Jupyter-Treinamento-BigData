@@ -12,3 +12,11 @@ Senha: aluno.n
 
 Acesso SSH 
 treinamento@bigdata
+
+
+####################  AWS #################################
+calculadora
+https://calculator.s3.amazonaws.com/index.html
+
+tipos de clusters
+https://aws.amazon.com/pt/ec2/instance-types/
