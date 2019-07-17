@@ -1,0 +1,13 @@
+,Features,Role,Level,Keep,Tipo,Cardinality
+0,id,id,nominal,False,int64,891
+1,target,target,ordinal,True,int64,2
+2,Pclass,input,ordinal,True,int64,3
+3,Name,input,nominal,True,object,891
+4,Sex,input,nominal,True,object,2
+5,Age,input,interval,True,float64,88
+6,SibSp,input,ordinal,True,int64,7
+7,Parch,input,ordinal,True,int64,7
+8,Ticket,input,nominal,True,object,681
+9,Fare,input,interval,True,float64,248
+10,Cabin,input,nominal,True,object,147
+11,Embarked,input,nominal,True,object,3
